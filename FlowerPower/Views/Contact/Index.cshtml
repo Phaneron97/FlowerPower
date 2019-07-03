@@ -1,0 +1,24 @@
+﻿@model IEnumerable<FlowerPower.Models.Winkel>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+@foreach (var item in Model)
+{
+    <div class="col-lg-4 col-md-6 mb-4">
+        <div class="card h-100">
+            <img class="card-img-top" src="~/Content/Images/Filialen/@item.Plaatje" style="max-height:180px"/>
+            <div class="card-body">
+                <center>
+                    <h5> @Html.DisplayFor(modelItem => item.Winkelnaam)</h5>
+                    <h5> @Html.DisplayFor(modelItem => item.Straat)</h5>
+                    <h5> @Html.DisplayFor(modelItem => item.Postcode) @Html.DisplayFor(modelItem => item.Plaats)</h5>
+                    <h5> @Html.DisplayFor(modelItem => item.Telefoon)</h5>
+                </center>
+            </div>
+        </div>
+    </div>
+}

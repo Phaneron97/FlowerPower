@@ -1,0 +1,54 @@
+﻿@model IEnumerable<FlowerPower.Models.Factuur>
+
+@{
+    ViewBag.Title = "AlleFacturen";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Alle facturen van alle klanten</h2>
+
+<table class="table">
+    <tr>
+        <th>
+            FactuurId
+        </th>
+        <th>
+            Klantnaam
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.BestelDatum)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Gereed)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        @*<td>
+            @Html.DisplayFor(modelItem => item.BestelDatum)
+        </td>*@
+        <td>
+            @Html.DisplayFor(modelItem => item.Id)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.User.Voornaam)
+            @Html.DisplayFor(modelItem => item.User.Tussenvoegsel)
+            @Html.DisplayFor(modelItem => item.User.Achternaam)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.BestelDatum)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Gereed)
+        </td>
+
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id = item.Id }) | 
+            @Html.ActionLink("Delete", "Delete", new { id = item.Id })
+        </td>
+    </tr>
+}
+
+</table>

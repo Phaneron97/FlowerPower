@@ -1,0 +1,116 @@
+﻿@model IEnumerable<FlowerPower.Models.FactuurRegel>
+
+@{
+    ViewBag.Title = "Factuur";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<dl>
+    <dt>
+        <img src="~/Content/Images/Filialen/logoFlowerPower.jpg" style="max-width:50px" />
+        FlowerPower
+    </dt>
+    <dt>
+        Af te halen bij locatie:
+    </dt>
+    @if (ViewBag.FiliaalKeuze == null)
+    {
+        <dd>
+            Spar
+        </dd>
+    }
+    @if (ViewBag.FiliaalKeuze != null)
+    {
+        <dd>
+            ViewBag.FiliaalKeuze
+        </dd>        
+    }
+    @*@ViewBag.FiliaalKeuze*@
+    <dt>
+        Datum:
+    </dt>
+    <dd>
+        @ViewBag.Bill
+    </dd>
+    <dt>
+        FactuurNummer:
+    </dt>
+    <dd>
+        @ViewBag.FactuurNr
+    </dd>
+
+    <dt>
+        Adresgegevens:
+
+    </dt>
+    <dd>
+        @ViewBag.Voornaam
+        @ViewBag.Tussenvoegsel
+        @ViewBag.AccName<br />
+        @ViewBag.AccAdress<br />
+        @ViewBag.AccZipcode @ViewBag.AccPlaats<br />
+    </dd>
+
+</dl>
+<br />
+
+<br />
+<br />
+
+
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.BloemId.Naam)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.BloemId.Omschrijving)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.BloemId.Prijs)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.BloemId.Naam)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.BloemId.Omschrijving)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.BloemId.Prijs)
+            </td>
+        </tr>
+    }
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>
+            Btw
+        </td>
+        <td>
+            @ViewBag.Btw
+        </td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td>
+            Totaal te betalen*
+        </td>
+        <td>
+            @ViewBag.TotaalAll
+        </td>
+    </tr>
+
+</table>

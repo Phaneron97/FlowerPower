@@ -1,0 +1,857 @@
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\ApplicationInsights.config
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\FlowerPower.dll.config
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\FlowerPower.dll
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\FlowerPower.pdb
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\roslyn\csc.exe
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\roslyn\csc.exe.config
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\roslyn\csc.rsp
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\roslyn\csi.exe
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\roslyn\csi.exe.config
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\roslyn\csi.rsp
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\roslyn\System.AppContext.dll
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\roslyn\System.Console.dll
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\roslyn\System.IO.Compression.dll
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\roslyn\System.Security.Claims.dll
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\roslyn\System.ValueTuple.dll
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\roslyn\vbc.exe
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\roslyn\vbc.exe.config
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\roslyn\vbc.rsp
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\roslyn\VBCSCompiler.exe
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\Antlr3.Runtime.dll
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\EntityFramework.dll
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\EntityFramework.SqlServer.dll
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\Microsoft.AI.Web.dll
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\Microsoft.Owin.dll
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\Microsoft.Owin.Security.dll
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\Newtonsoft.Json.dll
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\Owin.dll
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\System.Web.Helpers.dll
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\System.Web.Mvc.dll
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\System.Web.Optimization.dll
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\System.Web.Razor.dll
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\System.Web.WebPages.dll
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\System.Web.WebPages.Razor.dll
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\WebGrease.dll
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\System.Web.Helpers.xml
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\System.Web.Mvc.xml
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\System.Web.Optimization.xml
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\System.Web.Razor.xml
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\System.Web.WebPages.xml
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\System.Web.WebPages.Razor.xml
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\Newtonsoft.Json.xml
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\Antlr3.Runtime.pdb
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\EntityFramework.xml
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\EntityFramework.SqlServer.xml
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\Microsoft.Owin.xml
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\Microsoft.Owin.Security.xml
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\Microsoft.AI.Web.xml
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\obj\Debug\FlowerPower.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\obj\Debug\FlowerPower.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\obj\Debug\FlowerPower.csproj.CopyComplete
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\obj\Debug\FlowerPower.dll
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\obj\Debug\FlowerPower.pdb
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\obj\Debug\FlowerPower.Migrations.DBinitial.resources
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\obj\Debug\FlowerPower.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\obj\Debug\FlowerPower.Migrations.bloemmodel.resources
+C:\Users\Administrator\source\repos\FlowerPower\FlowerPower\obj\Debug\FlowerPower.Migrations.factuurmodels.resources
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\ApplicationInsights.config
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\FlowerPower.dll.config
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\FlowerPower.dll
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\FlowerPower.pdb
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\roslyn\csc.exe
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\roslyn\csc.exe.config
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\roslyn\csc.rsp
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\roslyn\csi.exe
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\roslyn\csi.exe.config
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\roslyn\csi.rsp
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\roslyn\System.AppContext.dll
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\roslyn\System.Collections.Immutable.dll
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\roslyn\System.Console.dll
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\roslyn\System.Diagnostics.Process.dll
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\roslyn\System.IO.Compression.dll
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\roslyn\System.IO.FileSystem.dll
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\roslyn\System.IO.Pipes.dll
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\roslyn\System.Reflection.Metadata.dll
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\roslyn\System.Security.AccessControl.dll
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\roslyn\System.Security.Claims.dll
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\roslyn\System.Security.Principal.Windows.dll
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\roslyn\System.Threading.Thread.dll
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\roslyn\System.ValueTuple.dll
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\roslyn\System.Xml.XmlDocument.dll
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\roslyn\System.Xml.XPath.dll
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\roslyn\vbc.exe
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\roslyn\vbc.exe.config
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\roslyn\vbc.rsp
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\roslyn\VBCSCompiler.exe
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\roslyn\VBCSCompiler.exe.config
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\Antlr3.Runtime.dll
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\EntityFramework.dll
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\EntityFramework.SqlServer.dll
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\Microsoft.AI.Agent.Intercept.dll
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\Microsoft.AI.DependencyCollector.dll
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\Microsoft.AI.Web.dll
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\Microsoft.AI.WindowsServer.dll
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\Microsoft.ApplicationInsights.dll
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\Microsoft.AspNet.Identity.Core.dll
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\Microsoft.Owin.dll
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\Microsoft.Owin.Security.Cookies.dll
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\Microsoft.Owin.Security.dll
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\Microsoft.Owin.Security.Facebook.dll
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\Microsoft.Owin.Security.Google.dll
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\Microsoft.Owin.Security.OAuth.dll
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\Microsoft.Owin.Security.Twitter.dll
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\Microsoft.Web.Infrastructure.dll
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\Newtonsoft.Json.dll
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\Owin.dll
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\System.Diagnostics.DiagnosticSource.dll
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\System.Web.Helpers.dll
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\System.Web.Mvc.dll
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\System.Web.Optimization.dll
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\System.Web.Razor.dll
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\System.Web.WebPages.Deployment.dll
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\System.Web.WebPages.dll
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\System.Web.WebPages.Razor.dll
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\WebGrease.dll
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\System.Web.Helpers.xml
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\System.Web.Mvc.xml
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\System.Web.Optimization.xml
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\System.Web.Razor.xml
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\System.Web.WebPages.xml
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\System.Web.WebPages.Deployment.xml
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\System.Web.WebPages.Razor.xml
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\Newtonsoft.Json.xml
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\Antlr3.Runtime.pdb
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\EntityFramework.xml
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\EntityFramework.SqlServer.xml
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\Microsoft.AspNet.Identity.Core.xml
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\Microsoft.Owin.xml
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\Microsoft.Owin.Security.xml
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\Microsoft.Owin.Security.Facebook.xml
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\Microsoft.Owin.Security.Cookies.xml
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\Microsoft.Owin.Security.Google.xml
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\Microsoft.Owin.Security.Twitter.xml
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\Microsoft.Owin.Security.OAuth.xml
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\System.Diagnostics.DiagnosticSource.xml
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\Microsoft.AI.DependencyCollector.xml
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\Microsoft.AI.WindowsServer.xml
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\Microsoft.AI.Web.xml
+F:\PVb FlowerPower\FlowerPower\FlowerPower\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\PVb FlowerPower\FlowerPower\FlowerPower\obj\Debug\FlowerPower.csprojResolveAssemblyReference.cache
+F:\PVb FlowerPower\FlowerPower\FlowerPower\obj\Debug\FlowerPower.Migrations.DBinitial.resources
+F:\PVb FlowerPower\FlowerPower\FlowerPower\obj\Debug\FlowerPower.Migrations.bloemmodel.resources
+F:\PVb FlowerPower\FlowerPower\FlowerPower\obj\Debug\FlowerPower.Migrations.factuurmodels.resources
+F:\PVb FlowerPower\FlowerPower\FlowerPower\obj\Debug\FlowerPower.csproj.GenerateResource.cache
+F:\PVb FlowerPower\FlowerPower\FlowerPower\obj\Debug\FlowerPower.csproj.CoreCompileInputs.cache
+F:\PVb FlowerPower\FlowerPower\FlowerPower\obj\Debug\FlowerPower.csproj.CopyComplete
+F:\PVb FlowerPower\FlowerPower\FlowerPower\obj\Debug\FlowerPower.dll
+F:\PVb FlowerPower\FlowerPower\FlowerPower\obj\Debug\FlowerPower.pdb
+F:\PVb FlowerPower\FlowerPower\FlowerPower\obj\Debug\FlowerPower.Migrations.factuur.resources
+F:\PVb FlowerPower\FlowerPower\FlowerPower\obj\Debug\FlowerPower.Migrations.factuur1.resources
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\ApplicationInsights.config
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\FlowerPower.dll.config
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\FlowerPower.dll
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\FlowerPower.pdb
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\roslyn\csc.exe
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\roslyn\csc.exe.config
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\roslyn\csc.rsp
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\roslyn\csi.exe
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\roslyn\csi.exe.config
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\roslyn\csi.rsp
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\roslyn\System.AppContext.dll
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\roslyn\System.Console.dll
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\roslyn\System.IO.Compression.dll
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\roslyn\System.Security.Claims.dll
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\roslyn\System.ValueTuple.dll
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\roslyn\vbc.exe
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\roslyn\vbc.exe.config
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\roslyn\vbc.rsp
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\roslyn\VBCSCompiler.exe
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\Antlr3.Runtime.dll
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\EntityFramework.dll
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\Microsoft.AI.Web.dll
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\Microsoft.Owin.dll
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\Microsoft.Owin.Security.dll
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\Newtonsoft.Json.dll
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\Owin.dll
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\System.Web.Helpers.dll
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\System.Web.Mvc.dll
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\System.Web.Optimization.dll
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\System.Web.Razor.dll
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\System.Web.WebPages.dll
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\System.Web.WebPages.Razor.dll
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\WebGrease.dll
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\System.Web.Helpers.xml
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\System.Web.Mvc.xml
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\System.Web.Optimization.xml
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\System.Web.Razor.xml
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\System.Web.WebPages.xml
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\System.Web.WebPages.Razor.xml
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\Newtonsoft.Json.xml
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\Antlr3.Runtime.pdb
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\EntityFramework.xml
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\Microsoft.Owin.xml
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\Microsoft.Owin.Security.xml
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\Microsoft.AI.Web.xml
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\obj\Debug\FlowerPower.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\obj\Debug\FlowerPower.Migrations.DBinitial.resources
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\obj\Debug\FlowerPower.Migrations.bloemmodel.resources
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\obj\Debug\FlowerPower.Migrations.factuurmodels.resources
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\obj\Debug\FlowerPower.Migrations.factuur.resources
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\obj\Debug\FlowerPower.Migrations.factuur1.resources
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\obj\Debug\FlowerPower.csproj.GenerateResource.cache
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\obj\Debug\FlowerPower.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\obj\Debug\FlowerPower.csproj.CopyComplete
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\obj\Debug\FlowerPower.dll
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\obj\Debug\FlowerPower.pdb
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\obj\Debug\FlowerPower.Migrations.seedmethode.resources
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\obj\Debug\FlowerPower.Migrations.DB2.resources
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\obj\Debug\FlowerPower.Migrations.DB3.resources
+F:\PVb FlowerPower\FlowerPower\FlowerPower\obj\Debug\FlowerPower.Migrations.seedmethode.resources
+F:\PVb FlowerPower\FlowerPower\FlowerPower\obj\Debug\FlowerPower.Migrations.DB2.resources
+F:\PVb FlowerPower\FlowerPower\FlowerPower\obj\Debug\FlowerPower.Migrations.DB3.resources
+F:\PVb FlowerPower\FlowerPower\FlowerPower\obj\Debug\FlowerPower.Migrations.DB4.resources
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\obj\Debug\FlowerPower.Migrations.DB4.resources
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\obj\Debug\FlowerPower.Migrations.geboortedatum.resources
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\obj\Debug\FlowerPower.Migrations.geboortedatum1.resources
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\obj\Debug\FlowerPower.Migrations.datetimenullfix.resources
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\obj\Debug\FlowerPower.Migrations.factuurfix.resources
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\obj\Debug\FlowerPower.Migrations.DB41.resources
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\obj\Debug\FlowerPower.Migrations.DB1337.resources
+F:\PVb FlowerPower\FlowerPower\FlowerPower\obj\Debug\FlowerPower.Migrations.geboortedatum.resources
+F:\PVb FlowerPower\FlowerPower\FlowerPower\obj\Debug\FlowerPower.Migrations.geboortedatum1.resources
+F:\PVb FlowerPower\FlowerPower\FlowerPower\obj\Debug\FlowerPower.Migrations.datetimenullfix.resources
+F:\PVb FlowerPower\FlowerPower\FlowerPower\obj\Debug\FlowerPower.Migrations.factuurfix.resources
+F:\PVb FlowerPower\FlowerPower\FlowerPower\obj\Debug\FlowerPower.Migrations.DB41.resources
+F:\PVb FlowerPower\FlowerPower\FlowerPower\obj\Debug\FlowerPower.Migrations.DB1337.resources
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\obj\Debug\FlowerPower.Migrations.telefoonfiliaal.resources
+F:\PVb FlowerPower\FlowerPower\FlowerPower\obj\Debug\FlowerPower.Migrations.telefoonfiliaal.resources
+F:\PVb FlowerPower\FlowerPower\FlowerPower\obj\Debug\FlowerPower.Migrations.bestellingboolfix.resources
+F:\PVb FlowerPower\FlowerPower\FlowerPower\obj\Debug\FlowerPower.Migrations.bestellingenview.resources
+F:\PVb FlowerPower\FlowerPower\FlowerPower\obj\Debug\FlowerPower.Migrations.boolgereed.resources
+F:\PVb FlowerPower\FlowerPower\FlowerPower\obj\Debug\FlowerPower.Migrations.DB13371.resources
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\obj\Debug\FlowerPower.Migrations.bestellingboolfix.resources
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\obj\Debug\FlowerPower.Migrations.bestellingenview.resources
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\obj\Debug\FlowerPower.Migrations.boolgereed.resources
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\obj\Debug\FlowerPower.Migrations.DB13371.resources
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\obj\Debug\FlowerPower.Migrations.editklantprofiel.resources
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\obj\Debug\FlowerPower.Migrations.DB6.resources
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\obj\Debug\FlowerPower.Migrations.DB13372.resources
+C:\Users\Administrator\Documents\_PVB Tijdelijk\PVb FlowerPower\FlowerPower\FlowerPower\obj\Debug\FlowerPower.Migrations.Winkelteruggedraaid.resources
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\ApplicationInsights.config
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\FlowerPower.dll.config
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\FlowerPower.dll
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\FlowerPower.pdb
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\roslyn\csc.exe
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\roslyn\csc.exe.config
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\roslyn\csc.rsp
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\roslyn\csi.exe
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\roslyn\csi.exe.config
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\roslyn\csi.rsp
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\roslyn\System.AppContext.dll
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\roslyn\System.Collections.Immutable.dll
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\roslyn\System.Console.dll
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\roslyn\System.Diagnostics.Process.dll
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\roslyn\System.IO.Compression.dll
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\roslyn\System.IO.FileSystem.dll
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\roslyn\System.IO.Pipes.dll
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\roslyn\System.Reflection.Metadata.dll
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\roslyn\System.Security.AccessControl.dll
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\roslyn\System.Security.Claims.dll
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\roslyn\System.Security.Principal.Windows.dll
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\roslyn\System.Threading.Thread.dll
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\roslyn\System.ValueTuple.dll
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\roslyn\System.Xml.XmlDocument.dll
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\roslyn\System.Xml.XPath.dll
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\roslyn\vbc.exe
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\roslyn\vbc.exe.config
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\roslyn\vbc.rsp
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\roslyn\VBCSCompiler.exe
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\roslyn\VBCSCompiler.exe.config
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\Antlr3.Runtime.dll
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\EntityFramework.dll
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\EntityFramework.SqlServer.dll
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\Microsoft.AI.Agent.Intercept.dll
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\Microsoft.AI.DependencyCollector.dll
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\Microsoft.AI.Web.dll
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\Microsoft.AI.WindowsServer.dll
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\Microsoft.ApplicationInsights.dll
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\Microsoft.AspNet.Identity.Core.dll
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\Microsoft.Owin.dll
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\Microsoft.Owin.Security.Cookies.dll
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\Microsoft.Owin.Security.dll
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\Microsoft.Owin.Security.Facebook.dll
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\Microsoft.Owin.Security.Google.dll
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\Microsoft.Owin.Security.OAuth.dll
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\Microsoft.Owin.Security.Twitter.dll
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\Microsoft.Web.Infrastructure.dll
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\Newtonsoft.Json.dll
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\Owin.dll
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\System.Diagnostics.DiagnosticSource.dll
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\System.Web.Helpers.dll
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\System.Web.Mvc.dll
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\System.Web.Optimization.dll
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\System.Web.Razor.dll
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\System.Web.WebPages.Deployment.dll
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\System.Web.WebPages.dll
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\System.Web.WebPages.Razor.dll
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\WebGrease.dll
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\System.Web.Helpers.xml
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\System.Web.Mvc.xml
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\System.Web.Optimization.xml
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\System.Web.Razor.xml
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\System.Web.WebPages.xml
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\System.Web.WebPages.Deployment.xml
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\System.Web.WebPages.Razor.xml
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\Newtonsoft.Json.xml
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\Antlr3.Runtime.pdb
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\EntityFramework.xml
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\EntityFramework.SqlServer.xml
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\Microsoft.AspNet.Identity.Core.xml
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\Microsoft.Owin.xml
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\Microsoft.Owin.Security.xml
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\Microsoft.Owin.Security.Facebook.xml
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\Microsoft.Owin.Security.Cookies.xml
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\Microsoft.Owin.Security.Google.xml
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\Microsoft.Owin.Security.Twitter.xml
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\Microsoft.Owin.Security.OAuth.xml
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\System.Diagnostics.DiagnosticSource.xml
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\Microsoft.AI.DependencyCollector.xml
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\Microsoft.AI.WindowsServer.xml
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\Microsoft.AI.Web.xml
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\obj\Debug\FlowerPower.csprojAssemblyReference.cache
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\obj\Debug\FlowerPower.Migrations.DBinitial.resources
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\obj\Debug\FlowerPower.Migrations.bloemmodel.resources
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\obj\Debug\FlowerPower.Migrations.factuurmodels.resources
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\obj\Debug\FlowerPower.Migrations.factuur.resources
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\obj\Debug\FlowerPower.Migrations.factuur1.resources
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\obj\Debug\FlowerPower.Migrations.seedmethode.resources
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\obj\Debug\FlowerPower.Migrations.DB2.resources
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\obj\Debug\FlowerPower.Migrations.DB3.resources
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\obj\Debug\FlowerPower.Migrations.DB4.resources
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\obj\Debug\FlowerPower.Migrations.geboortedatum.resources
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\obj\Debug\FlowerPower.Migrations.geboortedatum1.resources
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\obj\Debug\FlowerPower.Migrations.datetimenullfix.resources
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\obj\Debug\FlowerPower.Migrations.factuurfix.resources
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\obj\Debug\FlowerPower.Migrations.DB41.resources
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\obj\Debug\FlowerPower.Migrations.DB1337.resources
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\obj\Debug\FlowerPower.Migrations.telefoonfiliaal.resources
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\obj\Debug\FlowerPower.Migrations.bestellingboolfix.resources
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\obj\Debug\FlowerPower.Migrations.bestellingenview.resources
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\obj\Debug\FlowerPower.Migrations.boolgereed.resources
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\obj\Debug\FlowerPower.Migrations.DB13371.resources
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\obj\Debug\FlowerPower.Migrations.editklantprofiel.resources
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\obj\Debug\FlowerPower.Migrations.DB6.resources
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\obj\Debug\FlowerPower.Migrations.DB13372.resources
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\obj\Debug\FlowerPower.Migrations.Winkelteruggedraaid.resources
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\obj\Debug\FlowerPower.csproj.GenerateResource.cache
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\obj\Debug\FlowerPower.csproj.CoreCompileInputs.cache
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\obj\Debug\FlowerPower.csproj.CopyComplete
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\obj\Debug\FlowerPower.dll
+E:\IO3A\MVC\_Examentraining projecten\3e Poging Projecten\FlowerPower\FlowerPower\obj\Debug\FlowerPower.pdb
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\ApplicationInsights.config
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\FlowerPower.dll.config
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\FlowerPower.dll
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\FlowerPower.pdb
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\roslyn\csc.exe
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\roslyn\csc.exe.config
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\roslyn\csc.rsp
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\roslyn\csi.exe
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\roslyn\csi.exe.config
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\roslyn\csi.rsp
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\roslyn\System.AppContext.dll
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\roslyn\System.Collections.Immutable.dll
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\roslyn\System.Console.dll
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\roslyn\System.Diagnostics.Process.dll
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\roslyn\System.IO.Compression.dll
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\roslyn\System.IO.FileSystem.dll
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\roslyn\System.IO.Pipes.dll
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\roslyn\System.Reflection.Metadata.dll
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\roslyn\System.Security.AccessControl.dll
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\roslyn\System.Security.Claims.dll
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\roslyn\System.Security.Principal.Windows.dll
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\roslyn\System.Threading.Thread.dll
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\roslyn\System.ValueTuple.dll
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\roslyn\System.Xml.XmlDocument.dll
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\roslyn\System.Xml.XPath.dll
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\roslyn\vbc.exe
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\roslyn\vbc.exe.config
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\roslyn\vbc.rsp
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\roslyn\VBCSCompiler.exe
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\roslyn\VBCSCompiler.exe.config
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\Antlr3.Runtime.dll
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\EntityFramework.dll
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\EntityFramework.SqlServer.dll
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\Microsoft.AI.Agent.Intercept.dll
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\Microsoft.AI.DependencyCollector.dll
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\Microsoft.AI.Web.dll
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\Microsoft.AI.WindowsServer.dll
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\Microsoft.ApplicationInsights.dll
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\Microsoft.AspNet.Identity.Core.dll
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\Microsoft.Owin.dll
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\Microsoft.Owin.Security.Cookies.dll
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\Microsoft.Owin.Security.dll
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\Microsoft.Owin.Security.Facebook.dll
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\Microsoft.Owin.Security.Google.dll
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\Microsoft.Owin.Security.OAuth.dll
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\Microsoft.Owin.Security.Twitter.dll
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\Microsoft.Web.Infrastructure.dll
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\Newtonsoft.Json.dll
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\Owin.dll
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\System.Diagnostics.DiagnosticSource.dll
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\System.Web.Helpers.dll
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\System.Web.Mvc.dll
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\System.Web.Optimization.dll
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\System.Web.Razor.dll
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\System.Web.WebPages.Deployment.dll
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\System.Web.WebPages.dll
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\System.Web.WebPages.Razor.dll
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\WebGrease.dll
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\System.Web.Helpers.xml
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\System.Web.Mvc.xml
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\System.Web.Optimization.xml
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\System.Web.Razor.xml
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\System.Web.WebPages.xml
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\System.Web.WebPages.Deployment.xml
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\System.Web.WebPages.Razor.xml
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\Newtonsoft.Json.xml
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\Antlr3.Runtime.pdb
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\EntityFramework.xml
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\EntityFramework.SqlServer.xml
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\Microsoft.AspNet.Identity.Core.xml
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\Microsoft.Owin.xml
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\Microsoft.Owin.Security.xml
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\Microsoft.Owin.Security.Facebook.xml
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\Microsoft.Owin.Security.Cookies.xml
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\Microsoft.Owin.Security.Google.xml
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\Microsoft.Owin.Security.Twitter.xml
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\Microsoft.Owin.Security.OAuth.xml
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\System.Diagnostics.DiagnosticSource.xml
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\Microsoft.AI.DependencyCollector.xml
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\Microsoft.AI.WindowsServer.xml
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\Microsoft.AI.Web.xml
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\obj\Debug\FlowerPower.csprojAssemblyReference.cache
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\obj\Debug\FlowerPower.Migrations.DBinitial.resources
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\obj\Debug\FlowerPower.Migrations.bloemmodel.resources
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\obj\Debug\FlowerPower.Migrations.factuurmodels.resources
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\obj\Debug\FlowerPower.Migrations.factuur.resources
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\obj\Debug\FlowerPower.Migrations.factuur1.resources
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\obj\Debug\FlowerPower.Migrations.seedmethode.resources
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\obj\Debug\FlowerPower.Migrations.DB2.resources
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\obj\Debug\FlowerPower.Migrations.DB3.resources
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\obj\Debug\FlowerPower.Migrations.DB4.resources
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\obj\Debug\FlowerPower.Migrations.geboortedatum.resources
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\obj\Debug\FlowerPower.Migrations.geboortedatum1.resources
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\obj\Debug\FlowerPower.Migrations.datetimenullfix.resources
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\obj\Debug\FlowerPower.Migrations.factuurfix.resources
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\obj\Debug\FlowerPower.Migrations.DB41.resources
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\obj\Debug\FlowerPower.Migrations.DB1337.resources
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\obj\Debug\FlowerPower.Migrations.telefoonfiliaal.resources
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\obj\Debug\FlowerPower.Migrations.bestellingboolfix.resources
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\obj\Debug\FlowerPower.Migrations.bestellingenview.resources
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\obj\Debug\FlowerPower.Migrations.boolgereed.resources
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\obj\Debug\FlowerPower.Migrations.DB13371.resources
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\obj\Debug\FlowerPower.Migrations.editklantprofiel.resources
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\obj\Debug\FlowerPower.Migrations.DB6.resources
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\obj\Debug\FlowerPower.Migrations.DB13372.resources
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\obj\Debug\FlowerPower.Migrations.Winkelteruggedraaid.resources
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\obj\Debug\FlowerPower.csproj.GenerateResource.cache
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\obj\Debug\FlowerPower.csproj.CoreCompileInputs.cache
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\obj\Debug\FlowerPower.csproj.CopyComplete
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\obj\Debug\FlowerPower.dll
+E:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower Copy\FlowerPower\obj\Debug\FlowerPower.pdb
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\ApplicationInsights.config
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\FlowerPower.dll.config
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\FlowerPower.dll
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\FlowerPower.pdb
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\roslyn\csc.exe
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\roslyn\csc.exe.config
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\roslyn\csc.rsp
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\roslyn\csi.exe
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\roslyn\csi.exe.config
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\roslyn\csi.rsp
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\roslyn\System.AppContext.dll
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\roslyn\System.Collections.Immutable.dll
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\roslyn\System.Console.dll
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\roslyn\System.Diagnostics.Process.dll
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\roslyn\System.IO.Compression.dll
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\roslyn\System.IO.FileSystem.dll
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\roslyn\System.IO.Pipes.dll
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\roslyn\System.Reflection.Metadata.dll
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\roslyn\System.Security.AccessControl.dll
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\roslyn\System.Security.Claims.dll
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\roslyn\System.Security.Principal.Windows.dll
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\roslyn\System.Threading.Thread.dll
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\roslyn\System.ValueTuple.dll
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\roslyn\System.Xml.XmlDocument.dll
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\roslyn\System.Xml.XPath.dll
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\roslyn\vbc.exe
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\roslyn\vbc.exe.config
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\roslyn\vbc.rsp
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\roslyn\VBCSCompiler.exe
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\roslyn\VBCSCompiler.exe.config
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\Antlr3.Runtime.dll
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\EntityFramework.dll
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\EntityFramework.SqlServer.dll
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\Microsoft.AI.Agent.Intercept.dll
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\Microsoft.AI.DependencyCollector.dll
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\Microsoft.AI.Web.dll
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\Microsoft.AI.WindowsServer.dll
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\Microsoft.ApplicationInsights.dll
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\Microsoft.AspNet.Identity.Core.dll
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\Microsoft.Owin.dll
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\Microsoft.Owin.Security.Cookies.dll
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\Microsoft.Owin.Security.dll
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\Microsoft.Owin.Security.Facebook.dll
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\Microsoft.Owin.Security.Google.dll
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\Microsoft.Owin.Security.OAuth.dll
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\Microsoft.Owin.Security.Twitter.dll
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\Microsoft.Web.Infrastructure.dll
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\Newtonsoft.Json.dll
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\Owin.dll
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\System.Diagnostics.DiagnosticSource.dll
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\System.Web.Helpers.dll
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\System.Web.Mvc.dll
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\System.Web.Optimization.dll
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\System.Web.Razor.dll
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\System.Web.WebPages.Deployment.dll
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\System.Web.WebPages.dll
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\System.Web.WebPages.Razor.dll
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\WebGrease.dll
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\System.Web.Helpers.xml
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\System.Web.Mvc.xml
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\System.Web.Optimization.xml
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\System.Web.Razor.xml
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\System.Web.WebPages.xml
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\System.Web.WebPages.Deployment.xml
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\System.Web.WebPages.Razor.xml
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\Newtonsoft.Json.xml
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\Antlr3.Runtime.pdb
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\EntityFramework.xml
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\EntityFramework.SqlServer.xml
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\Microsoft.AspNet.Identity.Core.xml
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\Microsoft.Owin.xml
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\Microsoft.Owin.Security.xml
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\Microsoft.Owin.Security.Facebook.xml
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\Microsoft.Owin.Security.Cookies.xml
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\Microsoft.Owin.Security.Google.xml
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\Microsoft.Owin.Security.Twitter.xml
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\Microsoft.Owin.Security.OAuth.xml
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\System.Diagnostics.DiagnosticSource.xml
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\Microsoft.AI.DependencyCollector.xml
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\Microsoft.AI.WindowsServer.xml
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\Microsoft.AI.Web.xml
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\obj\Debug\FlowerPower.csprojAssemblyReference.cache
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\obj\Debug\FlowerPower.Migrations.DBinitial.resources
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\obj\Debug\FlowerPower.Migrations.bloemmodel.resources
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\obj\Debug\FlowerPower.Migrations.factuurmodels.resources
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\obj\Debug\FlowerPower.Migrations.factuur.resources
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\obj\Debug\FlowerPower.Migrations.factuur1.resources
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\obj\Debug\FlowerPower.Migrations.seedmethode.resources
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\obj\Debug\FlowerPower.Migrations.DB2.resources
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\obj\Debug\FlowerPower.Migrations.DB3.resources
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\obj\Debug\FlowerPower.Migrations.DB4.resources
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\obj\Debug\FlowerPower.Migrations.geboortedatum.resources
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\obj\Debug\FlowerPower.Migrations.geboortedatum1.resources
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\obj\Debug\FlowerPower.Migrations.datetimenullfix.resources
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\obj\Debug\FlowerPower.Migrations.factuurfix.resources
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\obj\Debug\FlowerPower.Migrations.DB41.resources
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\obj\Debug\FlowerPower.Migrations.DB1337.resources
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\obj\Debug\FlowerPower.Migrations.telefoonfiliaal.resources
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\obj\Debug\FlowerPower.Migrations.bestellingboolfix.resources
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\obj\Debug\FlowerPower.Migrations.bestellingenview.resources
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\obj\Debug\FlowerPower.Migrations.boolgereed.resources
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\obj\Debug\FlowerPower.Migrations.DB13371.resources
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\obj\Debug\FlowerPower.Migrations.editklantprofiel.resources
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\obj\Debug\FlowerPower.Migrations.DB6.resources
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\obj\Debug\FlowerPower.Migrations.DB13372.resources
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\obj\Debug\FlowerPower.Migrations.Winkelteruggedraaid.resources
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\obj\Debug\FlowerPower.csproj.GenerateResource.cache
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\obj\Debug\FlowerPower.csproj.CoreCompileInputs.cache
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\obj\Debug\FlowerPower.csproj.CopyComplete
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\obj\Debug\FlowerPower.dll
+F:\IO3A\_Examentraining projecten\3e Poging Projecten\FlowerPower with employee\FlowerPower\obj\Debug\FlowerPower.pdb

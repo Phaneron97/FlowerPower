@@ -1,0 +1,73 @@
+﻿@model IEnumerable<FlowerPower.Models.Klant>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Mijn profiel</h2>
+
+<div>
+    @foreach (var item in Model)
+    {
+    <dl>
+
+
+        <dt>
+            @Html.DisplayNameFor(model => model.User.Voornaam)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(modelItem => item.User.Voornaam)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.User.Tussenvoegsel)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(modelItem => item.User.Tussenvoegsel)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.User.Achternaam)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(modelItem => item.User.Achternaam)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.User.Straat)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(modelItem => item.User.Straat)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.User.Postcode)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(modelItem => item.User.Postcode)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.User.Straat)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(modelItem => item.User.Straat)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.User.GeboorteDatum)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(modelItem => item.User.GeboorteDatum)
+        </dd>
+    </dl>
+    }
+</div>

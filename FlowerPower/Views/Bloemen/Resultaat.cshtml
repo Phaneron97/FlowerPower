@@ -1,0 +1,76 @@
+﻿@model IEnumerable<FlowerPower.Models.Bloem>
+
+@{
+    ViewBag.Title = "Resultaat";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+@using (Html.BeginForm("Resultaat", "Bloemen"))
+{
+    <input type="hidden" name="FiliaalKeuze" value="@ViewBag.FiliaalKeuze">
+
+    @*<input type="submit" value="Zoeken" class="btn btn-default" />*@
+}
+
+
+
+
+@*<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Naam)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Prijs)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Omschrijving)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Plaatje)
+        </th>
+        <th></th>
+    </tr>*@
+
+
+@foreach (var item in Model)
+{
+    @*<tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Naam)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Prijs)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Omschrijving)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Plaatje)
+            </td>
+            <td>
+                @Html.ActionLink("Bestellen", "Create", "Factuurs", new { KlantId = ViewBag.KlantId, BloemId = item.Id, FiliaalKeuze = ViewBag.FiliaalKeuze }, new { })
+            </td>
+        </tr>*@
+
+    <div class="col-lg-4 col-md-6 mb-4">
+        <div class="card h-100">
+            <a href="#"><img class="card-img-top" src="~/Content/Images/@item.Plaatje" /></a>
+            <div class="card-body">
+                <h4 class="card-title">
+                    @Html.DisplayFor(modelItem => item.Naam)
+                </h4>
+                <h5>$@Html.DisplayFor(modelItem => item.Prijs),-</h5>
+            </div>
+            <div class="card-footer">
+                @Html.ActionLink("Details", "Details", new { id = item.Id }) <br />
+                @Html.ActionLink("Bestellen", "Create", "Factuurs", new { KlantId = ViewBag.KlantId, BloemId = item.Id, FiliaalKeuze = ViewBag.FiliaalKeuze }, new { })
+            </div>
+        </div>
+    </div>
+}
+
+
+
+@*</table>*@

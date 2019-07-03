@@ -1,0 +1,35 @@
+﻿@model IEnumerable<FlowerPower.Models.Factuur>
+
+@{
+    ViewBag.Title = "FacturenLijst";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>FacturenLijst</h2>
+
+<table class="table">
+    <tr>
+        <th>
+            FactuurNr.
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.BestelDatum)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Id)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.BestelDatum)
+        </td>
+        <td>
+            @Html.ActionLink("Bekijk Factuur", "Factuur", "Factuurs", new { Fac_Id = item.Id }, new { })
+        </td>
+    </tr>
+}
+
+</table>

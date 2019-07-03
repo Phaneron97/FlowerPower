@@ -1,0 +1,42 @@
+﻿@model IEnumerable<FlowerPower.Models.Bloem>
+
+@{
+    ViewBag.Title = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Create</h2>
+
+@using (Html.BeginForm("Save", "Factuurs"))
+{
+    @Html.AntiForgeryToken()
+
+    <h4>Wilt u deze bloemen bestellen?</h4>
+    <table>
+        @foreach (var item in Model)
+        {
+            <div class="col-lg-4 col-md-6 mb-4">
+                <div class="card h-100">
+                    <a href="#"><img class="card-img-top" src="~/Content/Images/@item.Plaatje" /></a>
+                    <div class="card-body">
+                        <h4 class="card-title">
+                            @Html.DisplayFor(modelItem => item.Naam)
+                        </h4>
+                        <h5>$@Html.DisplayFor(modelItem => item.Prijs),-</h5>
+                    </div>
+                </div>
+            </div>
+        }
+    </table>
+   
+
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            <input type="hidden" value="@ViewBag.BestelDatum" name="BestelDatum" />
+            <input type="hidden" value="@ViewBag.KlantId" name="KlantId" />
+            <input type="submit" value="Create" class="btn btn-default" />
+            <input type="button" value="Verder zoeken" onclick="location.href='@Url.Action("Further", "Factuurs")'" class="btn btn-default" />
+
+        </div>
+    </div>
+}

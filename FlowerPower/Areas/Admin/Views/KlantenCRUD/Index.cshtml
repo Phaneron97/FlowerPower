@@ -1,0 +1,66 @@
+﻿@model IEnumerable<FlowerPower.Models.Klant>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Mijn Profiel</h2>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.User.Voornaam)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.User.Tussenvoegsel)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.User.Achternaam)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.User.Straat)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.User.Postcode)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.User.Plaats)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.User.GeboorteDatum)
+        </th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.User.Voornaam)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.User.Tussenvoegsel)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.User.Achternaam)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.User.Straat)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.User.Postcode)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.User.Plaats)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.User.GeboorteDatum)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id = item.Id }) |
+            @Html.ActionLink("Details", "Details", new { id = item.Id }) |
+            @Html.ActionLink("Delete", "Delete", new { id = item.Id })
+        </td>
+    </tr>
+}
+
+</table>

@@ -1,0 +1,51 @@
+﻿@model FlowerPower.Models.Winkel
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Winkel</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Straat)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Straat)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Postcode)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Postcode)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Plaats)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Plaats)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Plaatje)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Plaatje)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
